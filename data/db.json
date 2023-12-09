@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "title": "Go to the market",
+      "details": "Get bread and Eggs",
+      "complete": true,
+      "id": 1
+    },
+    {
+      "title": "hello here ",
+      "details": "cool",
+      "complete": false,
+      "id": 2
+    },
+    {
+      "title": "qdee",
+      "details": "sdcsd",
+      "complete": false,
+      "id": 3
+    }
+  ]
+}
