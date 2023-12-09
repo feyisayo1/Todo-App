@@ -1,4 +1,4 @@
-# project-planner
+# Todo
 
 ## Project setup
 ```
